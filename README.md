@@ -2,7 +2,13 @@
 
 ![Aiko](img/aiko.png)
 
-Neste teste serão avaliados seus conhecimentos em Javascript, HTML e CSS, a criatividade e metodologia aplicada no desenvolvimento, a usabilidade e design da aplicação final.
+Neste teste serão avaliados seus conhecimentos em Javascript, HTML e CSS, a criatividade e metodologia aplicada no desenvolvimento, a usabilidade e design da aplicação 
+Escrito por Willian Vieira Peres
+
+Tecnologias utilizadas: Node, Javascript, Bootstrap, CSS, Jquery & LeaFlet(API de mapas).
+
+
+final.
 
 ## O Desafio
 
